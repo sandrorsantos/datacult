@@ -35,3 +35,4 @@ Objetivo: Utilizando Python e as bibliotecas pandas e matplotlib realizar uma an
 ETAPA 5. CRIAÇÃO DE VIZUALIZAÇÕES E STORYTELLING
 
 Objetivo: criar um dashboard com o Power BI e uma narrativa (storytelling) dos dados analisados.
+
