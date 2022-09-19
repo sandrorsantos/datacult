@@ -36,3 +36,49 @@ ETAPA 5. CRIAÇÃO DE VIZUALIZAÇÕES E STORYTELLING
 
 Objetivo: criar um dashboard com o Power BI e uma narrativa (storytelling) dos dados analisados.
 
+Os dados são relacionados a incentivadores de projetos culturais no contexto da Lei Rouanet, onde, por meio da renúncia fiscal, pessoas físicas e jurídicas podem incentivar projetos culturais e abater os valores do imposto de renda devido. O objetivo é realizar uma análise exploratória a fim de responder a seguintes questões:
+
+1) Qual o nível de participação de pessoas físicas que incentivam projetos culturais no âmbito da Lei Rouanet?
+2) Qual o valor total incentivado por pessoas físicas?
+3) Qual a média do valor incentivado por pessoa física?
+4) Qual a distribuição de incentivo por sexo?
+5) Qual a média do valor incentivado por sexo
+6) Qual a distribuição de incentivadores pessoas físicas por estado?
+7) Qual a distribuição dos valores incentivados por estado?
+8) Qual o valor total incentivado por estado?
+9) Qual o valor total incentivado pelas capitais?
+10) Qual o percentual de valor incentivado pelas capitais em relação aos estados?
+ 
+ANÁLISE EXPLORATÓRIA – ENTIDADE PROPOSTA
+
+PROPOSTAS POR ANO
+PROPOSTAS DUPLICADAS DO MESMO PROJETO
+TOTAL PROPOSTAS LÍQUIDO X PROPOSTAS APROVADAS (PROJETOS)
+PROPOSTAS POR REGIÃO
+PROPOSTAS POR ÁREA
+PROPOSTAS POR SEGUIMENTO
+
+ANÁLISE EXPLORATÓRIA – ENTIDADE PROJETOS
+
+QTD DE PROJETOS POR TIPO DE PESSOA
+QTD DE PROJETOS POR AREA 
+QTD DE PROJETOS POR SEGMENTO
+QTE DE PROJETOS POR LOCALIDADE
+AREA E SEGMENTO COM CAPTAÇÃO DE 100%
+AREA E SEGMENTO COM NENHUMA CAPTAÇÃO
+AREA E SEGMENTO COM CAPTAÇÃO PARCIAL
+% DE CAPTAÇÃO POR ENQUADRAMENTO 18 E 26
+
+ANÁLISE EXPLORATÓRIA – ENTIDADE INCENTIVADORES
+
+% TIPO DE PESSOA
+% TIPO DE PESSOA POR LOCALIDADE
+% TIPO DE PESSOA QUE CONSEGUIU CAPTAR 100%
+% TIPO DE PESSOA QUE NÃO CAPTOU NADA
+% TIPO DE PESSOA QUE CAPTOU PARCIALMENTE
+
+ANÁLISE EXPLORATÓRIA – ENTIDADE INCENTIVADORES
+
+% POR TIPO DE PESSOA
+TOTAL INCENTIVADO POR TIPO DE PESSOA
+% DOADA POR ÁREA E SEGMENTO
